@@ -1,11 +1,11 @@
 # Hey, I'm Chris 👋
 
-Full-stack developer with over a decade of experience — started building for the web at 13 and never stopped.  
+Full-stack developer with over 7 years of experience — started building for the web at 13 and never stopped.  
 I work across the full spectrum: from personal portfolios to corporate platforms, e-commerce systems, and custom enterprise applications. I also do custom WordPress development when the project calls for it.
 
 My work sits at the intersection of web development, AI, and whatever domain problem is worth solving — whether that's digital tools for preserving ancient languages, browser security, or low-level computing systems.
 
-Currently serving as **Secretary of the IEEE Student Branch** at my engineering school.
+Currently serving as **Vice Chair of the IEEE Student Branch** at my engineering school.
 
 ---
 
